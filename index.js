@@ -1,4 +1,4 @@
-'use stric'
+'use strict'
 let who  = ['Yo','El metro','Mi mamá','Los profesores'];
 let what = ['no escuche la alarma','se quedo sin servicio','no me dejo salir de casa','cerraron las vias'];
 let when = ['esta mañana','en la linea 1','en todo el dia','cuando venia en camino'];
